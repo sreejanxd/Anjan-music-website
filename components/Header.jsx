@@ -14,7 +14,7 @@ export default function Header() {
                     <Search />
                 </div>
                 <ModeToggle />
-                <Button size="icon" asChild><Link href="https://github.com/Siliguri-design/Music-website" target="_blank"><Star className="h-4 w-4"/></Link></Button>
+                <Button size="icon" asChild><Link href="https://wa.me/qr/ONS6OC44U2MJB1" target="_blank"><Star className="h-4 w-4"/></Link></Button>
             </div>
         </header>
     )
