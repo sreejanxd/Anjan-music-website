@@ -10,8 +10,8 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "MusicHub",
-  description: "Open-Source music streamer.",
+  title: "Anjan Music",
+  description: "music web created by anjan.",
   icons: "/logo-musichub.webp",
   manifest: "/manifest.json",
 };
