@@ -12,7 +12,7 @@ const poppins = Poppins({
 export const metadata = {
   title: "Anjan Music",
   description: "music web created by anjan.",
-  icons: "/logo-musichub.webp",
+  icons: "/Anjan-music.webp",
   manifest: "/manifest.json",
 };
 
