@@ -1,5 +1,5 @@
 ---
-<h3>Anjan's Music Player</h3>
+<h3>Sreejan's Music Player</h3>
 
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
  
